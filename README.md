@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/j03SIUp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://imgur.com/a/j03SIUp
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
